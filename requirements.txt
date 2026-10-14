@@ -1,0 +1,6 @@
+playwright
+pymongo
+python-dotenv
+requests
+ollama
+Pillow
